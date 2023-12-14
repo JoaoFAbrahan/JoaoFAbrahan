@@ -82,7 +82,7 @@
   <div align=center>
     <a href="joaofelipeabrahan@hotmail.com" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/f80bb7f8-b30f-461c-8987-e264d922acf8" alt="twitter" height="35" width="35" /></a> 
     <a href="https://joaofabrahan.artstation.com/" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/199a2334-f318-4406-a419-fa2cf0ec42f8" alt="linkedin" height="35" width="35" /></a>
-    <a href="www.linkedin.com/in/joão-felipe-abrahan-0a1601298" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/7bef1c57-5ed7-4a31-87bd-0210cbdca3a2" alt="instagram" height="35" width="35" /></a> 
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-abrahan-0a1601298/" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/7bef1c57-5ed7-4a31-87bd-0210cbdca3a2" alt="instagram" height="35" width="35" /></a> 
   </div>
 </p>
 <!-- - - - - - - - - - - - -->
